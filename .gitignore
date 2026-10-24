@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Neo4j (Docker volumes)
+neo4j/
+import/
+
+# Neo4j (Docker volumes)
+neo4j/
+import/
